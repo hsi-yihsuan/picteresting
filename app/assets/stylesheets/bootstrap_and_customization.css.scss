@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Gruppo);
+
+$font-family-sans-serif: 'Gruppo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$body-bg:rgb(189, 195, 199);
+$navbar-inverse-bg: rgb(52, 73, 94);
+$navbar-inverse-link-color: rgb(189, 195, 199);
+
+@import 'bootstrap';
+
+.center {
+    text-align: center;
+}
